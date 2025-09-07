@@ -1,0 +1,22 @@
+# IDE directories
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Dependencies (if added later)
+node_modules/
+
+# Build outputs (if added later)
+dist/
+build/
