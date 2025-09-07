@@ -24,7 +24,7 @@ function WebsiteMockup() {
       React.createElement('div', { className: "max-w-7xl mx-auto flex items-center justify-between px-6 py-3" },
         React.createElement('div', { className: "flex items-center gap-2" },
           React.createElement('img', {
-            src: "/terrasense_purple_transparent.png",
+            src: "/terrasense_purple_no_text.png",
             alt: "TerraSense Logo",
             height: 40,
             onError: (e) => {
@@ -177,7 +177,7 @@ function WebsiteMockup() {
       React.createElement('div', { className: "max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4 px-6" },
         React.createElement('div', { className: "flex items-center gap-2" },
           React.createElement('img', {
-            src: "/terrasense_purple_transparent.png",
+            src: "/terrasense_purple_no_text.png",
             alt: "TerraSense Logo",
             height: 40,
             onError: (e) => {
